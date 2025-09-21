@@ -12,14 +12,7 @@
     "tabs": [
       {
         "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index"
-            ]
-          }
-        ]
+        "groups": []
       },
       {
         "tab": "API reference",
