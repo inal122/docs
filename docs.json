@@ -84,39 +84,39 @@
     }
   },
   "logo": {
-    "light": "https://kararise.com.tr/favicon.ico?cache=1758360475",
-    "dark": "https://kararise.com.tr/favicon.ico?cache=1758360475"
+    "light": "https://kararise.com.tr/logo.png",
+    "dark": "https://kararise.com.tr/logo.png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@kararise.com.tr"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://kararise.com.tr/dashboard"
     }
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/kararise",
+      "github": "https://github.com/kararise",
+      "linkedin": "https://linkedin.com/company/kararise"
     }
   }
 }
